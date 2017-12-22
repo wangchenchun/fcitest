@@ -1,0 +1,20 @@
+body{
+	background: url(test.jpg);
+	font-family: "Courier New";
+}
+
+h1{
+	font-family: "Bradley Hand ITC";
+	text-align: center;
+}
+
+.center{
+	margin: auto;
+	width: 25%;
+}
+
+p{
+	font-size:18px;
+	font-style:italic;
+	font-weight:bold;
+}
